@@ -1,0 +1,9 @@
+#仅保留代码文件
+*
+!.gitignore
+!*.java
+!*.py
+!*.cpp
+!*.c
+!*.go
+!*.js
